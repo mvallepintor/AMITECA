@@ -14,33 +14,37 @@ h1 {
 }
 h2 {
 	text-align: right;
-	margin-top: 5px;
+	margin-top: 0px;
 	background-color:#669A66;
 	<!--#008000-->
 	width: 707px;
-	height: 100px;
+	height: 80px;
 	margin-bottom: 0px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', PT Sans, Helvetica, Arial, sans-serif;
 }
 h3 {
 	background-color: #B2CCB2;
 	margin-top: 0px;
 	margin-bottom: 0px;
+	padding-top: 20px;
 	text-align: center;
 	font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', PT Sans, Helvetica, Arial, sans-serif;
 	font-size: 18px;
 	font-color: #FFAD5C;
 	text-align: center;
-	height: 300px;
+	height: 270px;
 	vertical-align: middle;
 	font-weight: lighter;
 }
 h4 {
 	text-align: center;
 	background-color: #FFAD5C;
-	height: 100px;
+	height: 130px;
 	margin-top: 0px;
 	margin-bottom: 0px;
+	padding-top: 20px;
 	font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', PT Sans, Helvetica, Arial, sans-serif;
 	font-style: italic;
 }
@@ -72,7 +76,6 @@ nav a {
 	font-weight: lighter;
     vertical-align: middle;
     text-decoration: none;
-    position: bottom;
 }
 
 p {
