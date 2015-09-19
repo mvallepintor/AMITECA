@@ -1,0 +1,142 @@
+body {
+	margin: 0;
+}
+h1 {
+	margin: 0;
+	margin-left: 10px;
+	margin-top: 10px;
+    font-size: 4em;
+    font-weight: lighter;
+    width: 707px;
+    height: 70px;
+    vertical-align: text-bottom;
+    
+}
+h2 {
+	text-align: right;
+	margin-top: 5px;
+	background-color:#669A66;
+	<!--#008000-->
+	width: 707px;
+	height: 100px;
+	margin-bottom: 0px;
+	font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', PT Sans, Helvetica, Arial, sans-serif;
+}
+h3 {
+	background-color: #B2CCB2;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+	font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', PT Sans, Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	font-color: #FFAD5C;
+	text-align: center;
+	height: 300px;
+	vertical-align: middle;
+	font-weight: lighter;
+}
+h4 {
+	text-align: center;
+	background-color: #FFAD5C;
+	height: 100px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', PT Sans, Helvetica, Arial, sans-serif;
+	font-style: italic;
+}
+h5 {
+	background-color: #B2CCB2;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+	font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', PT Sans, Helvetica, Arial, sans-serif;
+	font-size: 18px;		
+	font-color: #FFAD5C;
+	text-align: center;
+	font-weight: lighter;
+}
+nav {
+	margin: 10px;
+	
+}
+nav a {
+	display: inline;
+	/* margin: 0 15px;*/
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: 30px;
+	margin-right: 30px;
+	color: #FFCC66;
+	font-family: Helvetica;
+	font-size: 20px;
+	font-weight: lighter;
+    vertical-align: middle;
+    text-decoration: none;
+    position: bottom;
+}
+
+p {
+	text-align: right;
+	font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', PT Sans, Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	font-color: #FFAD5C;
+}
+p1 {
+	text-align: center;
+	font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', PT Sans, Helvetica, Arial, sans-serif;
+	font-size: 26px;
+}
+p2 {
+	text-align: center;
+	font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', PT Sans, Helvetica, Arial, sans-serif;
+	font-size: 16px;
+}
+/*div1 {
+	<!--position: relative; -->
+	<!--height: 50px; -->
+	<!--display: table-cell; -->
+	<!--width: 100px; -->
+	<!--border-radius: 100%; -->
+	<!--border: 2px solid black; -->
+	<!--margin-left: 0px; -->
+	<!--margin-top: 0px; -->
+	<!--text-align: center; -->
+} -->*/
+
+div1 p {
+	position: relative;
+	margin-top: 40px;
+	font-size: 12px;
+}
+
+.botones {
+	border-color: #FFAD5C;
+	background-color: #669A66;
+	height: 100px;
+	width: 150px;
+	border-style: solid;
+	border-width: 2px;
+	text-align: center;
+}
+div id="SobreAmiteca" {
+	border: 2px solid #ffc3a0; 
+	border-color: #ffc3a0
+	background-color: #66cdaa;
+	height: 100px;
+	width: 150px;
+	border-style: dashed;
+	border-width: 5px;
+	text-align: center;
+}
+/*span {
+	font-weight: lighter;
+	font-size: 18px;
+	color: #FFAD5C;
+	font-family: Helvetica;
+	border-color: #ffc3a0
+	background-color: #66cdaa;
+	height: 100px;
+	width: 150px;
+	border-style: solid;
+	border-width: 5px;
+}
